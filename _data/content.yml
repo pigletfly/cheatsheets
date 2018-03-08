@@ -42,6 +42,7 @@ not_found:
   home: Back to home
 
 announcement:
+  enabled: false
   id: 2017-10-26-twitter
   title: |
     New: We're on Twitter ♥️

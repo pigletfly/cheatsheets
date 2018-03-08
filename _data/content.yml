@@ -12,6 +12,7 @@ sheet:
   suffix: cheatsheet
 
 social_list:
+  enabled: false
   default_description: "Ridiculous collection of web development cheatsheets"
   description: "The ultimate cheatsheet for TITLE."
   facebook_share: Share on Facebook

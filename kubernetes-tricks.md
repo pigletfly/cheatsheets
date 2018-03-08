@@ -5,7 +5,7 @@ prism_languages: [bash,yaml]
 weight: -3
 tags: [Featured]
 updated: 2017-11-19
-category: Kubernetes
+category: Devops
 ---
 
 ## Kubernetes tricks

@@ -68,6 +68,13 @@ $ kubectl attach -it nginx-app-5jyvm
 ...
 ```
 
+#### 通过 field selector 过滤
+
+```bash
+$ kubectl get po --all-namespaces --field-selector=spec.nodeName=
+
+```
+
 ## 高级命令
 
 {:.-three-column}
